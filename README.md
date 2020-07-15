@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/thiagortk/">
-  <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
 </a>
 <a href="https://www.researchgate.net/profile/Thiago_Rateke">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />
@@ -22,15 +22,6 @@
 <a href="https://www.goodreads.com/user/show/14002835-thiago-rateke">
   <img align="left" alt="GoodReads" width="42px" src="https://img.icons8.com/nolan/64/goodreads.png" />
 </a>
-
-
-<a href="https://www.linkedin.com/in/thiagortk/">
-    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png"
-         onmouseover="this.src='https://i.imgur.com/yPn3oSL.png';"
-         onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png';">
-</a>
-
-
 
 <br />
 <br />
