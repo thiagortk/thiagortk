@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+<p  align="center">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+</p>
 
 Here are some ideas to get you started:
 
