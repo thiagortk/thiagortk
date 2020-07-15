@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/thiagortk/">
-    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
+    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='this.src='https://i.imgur.com/yPn3oSL.png'" />
 </a>
 <a href="https://www.researchgate.net/profile/Thiago_Rateke">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />
