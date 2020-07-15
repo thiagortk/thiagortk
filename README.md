@@ -11,7 +11,7 @@
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />
 </a>
 <a href="https://www.youtube.com/user/Rateke">
-  <img align="left" alt="YouTube" width="42px" src=https://img.icons8.com/fluent/48/000000/youtube-play.png" />
+  <img align="left" alt="YouTube" width="42px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
 </a>
 
 <br/>
