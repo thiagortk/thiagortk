@@ -4,7 +4,7 @@
 
 <br />
 
-My name is Thiago Rateke. I'm a Computer Vision Engineer/Researcher.
+My name is Thiago Rateke. I'm a **Computer Vision Engineer/Researcher**.
 
 <hr>
 
