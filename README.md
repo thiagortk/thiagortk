@@ -4,9 +4,11 @@
 
 <br />
 
-My name is Thiago Rateke, a Computer Vision Engineer/Researcher
+My name is Thiago Rateke. I'm a Computer Vision Engineer/Researcher.
 
-More info about my projets and interests, or if you want to conect with me, on other networks:
+<hr>
+
+You can find info about my projets and interests, or if you want to conect with me, on other networks:
 
 <a href="https://www.linkedin.com/in/thiagortk/">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
@@ -29,6 +31,8 @@ More info about my projets and interests, or if you want to conect with me, on o
 <a href="https://www.goodreads.com/user/show/14002835-thiago-rateke">
   <img align="left" alt="GoodReads" width="42px" src="https://img.icons8.com/nolan/64/goodreads.png" onmouseover="this.src='https://i.imgur.com/gGV5BOA.png'" onmouseout="this.src='https://img.icons8.com/nolan/64/goodreads.png'" />
 </a>
+
+<hr>
 
 <br />
 <br />
