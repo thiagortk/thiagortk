@@ -24,6 +24,14 @@
 </a>
 
 
+<a href="https://www.linkedin.com/in/thiagortk/">
+    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png"
+         onmouseover="this.src='https://i.imgur.com/yPn3oSL.png';"
+         onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png';">
+</a>
+
+
+
 <br />
 <br />
 <br />
