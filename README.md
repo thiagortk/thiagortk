@@ -32,11 +32,11 @@ You can find info about my projets and interests, or if you want to conect with 
   <img align="left" alt="GoodReads" width="42px" src="https://img.icons8.com/nolan/64/goodreads.png" onmouseover="this.src='https://i.imgur.com/gGV5BOA.png'" onmouseout="this.src='https://img.icons8.com/nolan/64/goodreads.png'" />
 </a>
 
-<hr>
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
+<hr>
 
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagortk&&show_icons=true&title_color=EDD560&icon_color=8ac926&text_color=FFFFFF&bg_color=1B9AA0" alt="github stats"/></br>
