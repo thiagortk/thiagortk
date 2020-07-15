@@ -8,7 +8,7 @@ My name is Thiago Rateke. I'm a **Computer Vision Engineer/Researcher**.
 
 <hr>
 
-You can find info about my projets and interests, or if you want to conect with me, on other networks:
+Feel free to reach out me on other plataforms:
 
 <a href="https://www.linkedin.com/in/thiagortk/">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
