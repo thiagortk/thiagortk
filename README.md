@@ -10,6 +10,9 @@
 <a href="https://www.researchgate.net/profile/Thiago_Rateke">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />
 </a>
+<a href="https://medium.com/@thiagortk">
+  <img align="left" alt="Medium" width="42px" src="https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png" />
+</a>
 <a href="https://www.youtube.com/user/Rateke">
   <img align="left" alt="YouTube" width="42px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />
 </a>
