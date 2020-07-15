@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
 
 Here are some ideas to get you started:
 
