@@ -4,10 +4,10 @@
 
 
 <a href="https://www.linkedin.com/in/thiagortk/">
-  <a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>
+  <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.researchgate.net/profile/Thiago_Rateke">
-  <img align="left" alt="ResearchGate" width="22px" src="" />
+  <img align="left" alt="ResearchGate" width="22px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />
 </a>
 
 
