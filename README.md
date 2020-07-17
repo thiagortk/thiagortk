@@ -41,5 +41,3 @@ Feel free to reach out to me on other platforms:
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagortk&&show_icons=true&title_color=EDD560&icon_color=8ac926&text_color=FFFFFF&bg_color=1B9AA0" alt="github stats"/></br>
 </p>
-
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fthiagortk.thiagortk%2Freadme)
