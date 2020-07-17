@@ -20,10 +20,10 @@ Feel free to reach out to me on other platforms:
   <img align="left" alt="Medium" width="42px" src="https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png" onmouseover="this.src='https://i.imgur.com/T9W1yKs.png'" onmouseout="this.src='https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png'" />
 </a>
 <a href="https://www.youtube.com/user/Rateke">
-  <img align="left" alt="YouTube" width="42px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" onmouseover="this.src='https://i.imgur.com/RkSQMXJ.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/stackoverflow.png'" />
+  <img align="left" alt="YouTube" width="42px" src="https://img.icons8.com/fluent/50/000000/youtube-play.png" onmouseover="this.src='https://i.imgur.com/NPSw68r.png'" onmouseout="this.src='https://img.icons8.com/fluent/50/000000/youtube-play.png'" />
 </a>
 <a href="https://stackoverflow.com/users/7928366/thiagortk">
-  <img align="left" alt="HackerRank" width="42px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" onmouseover="this.src='https://i.imgur.com/7fMe0iP.png'" onmouseout="this.src='https://img.icons8.com/windows/32/000000/hackerrank.png'" />
+  <img align="left" alt="HackerRank" width="42px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" onmouseover="this.src='https://i.imgur.com/7fMe0iP.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/stackoverflow.png'" />
 </a>
 <a href="https://www.hackerrank.com/ThiagoRTK">
   <img align="left" alt="HackerRank" width="42px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" onmouseover="this.src='https://i.imgur.com/krhyTse.png'" onmouseout="this.src='https://img.icons8.com/windows/32/000000/hackerrank.png'" />
