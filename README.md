@@ -10,7 +10,7 @@ My name is Thiago Rateke. I'm a **Computer Vision Engineer/Researcher**.
 
 Feel free to reach out to me on other platforms:
 
-<a href="https://www.linkedin.com/in/thiagortk/">
+<a href="https://www.linkedin.com/in/thiagortk/" target="_blank">
   <img align="left" alt="ResearchGate" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
 </a>
 <a href="https://www.researchgate.net/profile/Thiago_Rateke">
