@@ -17,7 +17,7 @@ Feel free to reach out to me on other platforms:
   <img align="left" alt="ResearchGate" width="42px" height="42px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" onmouseover="this.src='https://i.imgur.com/a16Ge5O.png'" onmouseout="this.src='https://img.icons8.com/windows/32/000000/researchgate.png'" />
 </a>
 <a href="https://medium.com/@thiagortk" target="_blank">
-  <img align="left" alt="Medium" width="42px" src="https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png" onmouseover="this.src='https://i.imgur.com/T9W1yKs.png'" onmouseout="this.src='https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png'" />
+  <img align="left" alt="Medium" width="42px" height="42px" src="https://img.icons8.com/material-outlined/50/000000/medium-logo.png" onmouseover="this.src='https://i.imgur.com/T9W1yKs.png'" onmouseout="this.src='https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png'" />
 </a>
 <a href="https://www.youtube.com/user/Rateke" target="_blank">
   <img align="left" alt="YouTube" width="42px" src="https://img.icons8.com/fluent/50/000000/youtube-play.png" onmouseover="this.src='https://i.imgur.com/NPSw68r.png'" onmouseout="this.src='https://img.icons8.com/fluent/50/000000/youtube-play.png'" />
